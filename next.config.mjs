@@ -11,5 +11,6 @@ export default {
   output: 'export',
   distDir: 'docs',
   basePath: '/august-06',
-  trailingSlash: true,
+  assetPrefix: '/august-06/',
+  trailingSlash: true
 }
