@@ -2,7 +2,7 @@
   "name": "august-04",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexey.volosnikov.work.gitlab.io/august-06",
+  "homepage": "https://AlexeyVolosnikov.github.io/august-06",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
